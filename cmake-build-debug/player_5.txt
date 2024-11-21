@@ -1,0 +1,7 @@
+Hidden: 8	BLACK
++
+-
+÷
+0	GOLD
+9	GOLD
+1	BLACK

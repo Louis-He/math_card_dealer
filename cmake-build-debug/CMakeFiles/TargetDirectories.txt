@@ -1,0 +1,3 @@
+/Users/siweihe/Developer/Math_Card_Dealer/cmake-build-debug/CMakeFiles/Math_Card_Dealer.dir
+/Users/siweihe/Developer/Math_Card_Dealer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/siweihe/Developer/Math_Card_Dealer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

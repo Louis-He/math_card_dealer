@@ -1,0 +1,7 @@
+Hidden: 6	BRONZE
++
+-
+÷
+10	BLACK
+7	GOLD
+6	SILVER
